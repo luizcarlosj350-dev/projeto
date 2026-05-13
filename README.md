@@ -44,7 +44,15 @@ usage: git add [<options>] [--] <pathspec>...
 
 PS C:\Users\LuizCarlosGomesdaSil> git tag -a vX.Y.Z -m "Release vX.Y.Z" git push origin vX.Y.Z
 fatal: too many arguments
-PS C:\Users\LuizCarlosGomesdaSil>
+PS C:\Users\LuizCarlosGomesdaSil>DB_DRIVE='mysql'
+D8_HOST='localshost
+DB_NAME='senac'
+DB_USERNAME='root'
+DB_PASSWORD='123456789'
+DB_PORT=''3306
+DB_CHARSET='utf-8'
+
+
 
 
 
