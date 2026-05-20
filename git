@@ -1,5 +1,7 @@
-echo "# projetos" >> README.md
-git init
+git checkout -b feature/minha-feature
+git add .
+git commit -m "feat: minha nova feature"
+git push -u origin feature/minha-feature
 git add README.md
 git commit -m "first commit"
 git branch -M main
@@ -10,3 +12,4 @@ git checkout -b feature/portfolio-update
 git add .
 git commit -m "feat: duplicate portfolio folder"
 git push origin feature/portfolio-update
+
